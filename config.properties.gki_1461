@@ -1,6 +1,6 @@
 KERNEL_SOURCE=https://github.com/Flofy-Dev/Pixel_9a_nethunter_kernel.git
 KERNEL_SOURCE_BRANCH=main
-KERNEL_CONFIG=nethunter_defconfig
+KERNEL_CONFIG=gki_defconfig
 KERNEL_IMAGE_NAME=Image
 ARCH=arm64
 
